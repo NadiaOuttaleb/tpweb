@@ -1,0 +1,47 @@
+.titre1 {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+
+}
+.titre2 {
+  color: blue;
+  font-weight: 100;
+  text-align: end;
+
+}
+
+.image1 {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+
+}
+.image2{
+  border-radius: 50px;
+  width: 300px;
+  height: 300px;
+}
+
+.image3{
+  border-radius: 100px;
+  width: 300px;
+  height: 300px;
+}
+.image4{
+  border-radius: 2rem;
+  width: 300px;
+  height: 300px;
+}
+img {
+  margin-right: 20px;
+  margin-bottom: 50px;
+}
+
+li
+{
+  list-style: none;
+  font-size: 2rem;
+  font-weight: 900;
+  font-family: 'Courier New', Courier, monospace;
+}
